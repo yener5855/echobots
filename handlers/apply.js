@@ -1,5 +1,5 @@
 //all reactions for the finished channel
-const moment = require('moment');
+const moment = require ('moment');
 const { dbEnsure } = require(`./functions`);
 const config = require(`../botconfig/config.json`)
 const Discord = require(`discord.js`);
